@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkool33&label=Profile%20views&color=0e75b6&style=flat" alt="mrkool33" /> </p>
 
-- 👯 I’m looking to collaborate on [bared](https://github.com/SulaimanAlfarsi/Bared.git)
+- 👯 I collaborate on [bared](https://github.com/SulaimanAlfarsi/Bared.git)
 
-- 👯 I’m looking to collaborate on [ice-tea-project](https://github.com/SulaimanAlfarsi/ice-tea-project.git)
+- 👯 I collaborate on [ice-tea-project](https://github.com/SulaimanAlfarsi/ice-tea-project.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrkool33](https://github.com/mrkool33)
 
